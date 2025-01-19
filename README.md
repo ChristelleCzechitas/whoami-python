@@ -31,5 +31,5 @@ gunicorn run:app
 | `WEB_CONCURRENCY` | Number of worker processes for handling requests (production use) | `1` (can be set by PaaS like Heroku) | [Gunicorn Worker Configuration](https://docs.gunicorn.org/en/stable/settings.html#worker-processes) |
 
 **Contributors:**
-Christelle Linda Natabou
+Christelle Linda Natabou - koučka
 
